@@ -1,0 +1,401 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(217, 217, 217);
+}
+
+input::-webkit-outer-spin-button,
+      input::-webkit-inner-spin-button {
+         -webkit-appearance: none;
+      }
+
+.wrapper {
+    display: flex;
+    position: relative;
+    height: 100vh;
+}
+
+.main {
+    flex: 1;
+    flex-grow: 1;
+    overflow-y: auto;
+}
+
+.side-panel-button {
+    position: absolute;
+    z-index: 2;
+    width: 50px;
+    height: 50px;
+    flex-shrink: 0;
+    display: grid;
+    place-items: center;
+
+    color: maroon;
+    background: white;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    outline: none;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+
+.side-panel-button:hover {
+    background: rgb(186, 186, 186);
+}
+
+.sp-icon-close {
+    display: none !important;
+    width: 100%;
+    height: auto;
+    transform: scale(1.5);
+}
+
+.sp-icon-open {
+    width: auto;
+    height: auto;
+    transform: scale(1.5);
+}
+
+.side-panel {
+    display: none;
+    z-index: 3;
+    flex: 0 0 300px;
+    flex-shrink: 0;
+    padding: 20px;
+    color: white;
+    background: rgb(186, 186, 186);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.35);
+    border-bottom-right-radius: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.side-panel-open .side-panel {
+    display: flex;
+}
+
+.side-panel-open .sp-icon-open {
+    display: none !important;
+}
+
+.side-panel-open .sp-icon-close {
+    display: initial !important;
+}
+  
+.login-container {
+    display: initial;
+    background-color: rgb(217, 217, 217);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.35);
+    overflow: hidden;
+    width: 300px;
+    text-align: center;
+    transition: all 0.5s ease;
+}
+
+.login-container:hover {
+    transform: scale(1.05);
+}
+
+.login-header {
+    background-color: maroon;
+    color: white;
+    padding: 20px;
+    font-size: 24px;
+}
+
+.login-form {
+    padding: 20px;
+}
+
+.login-form input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.login-form input:focus {
+    outline: none;
+    border: 3px solid maroon;
+}
+
+.login-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: maroon;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.login-form button:hover {
+    background-color: rgb(104, 0, 0);
+}
+
+.login-form p {
+    margin-top: 16px;
+    font-size: 14px;
+    color: black;
+}
+
+.login-form a {
+    color: maroon;
+    text-decoration: none;
+}
+
+.login-form a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    margin-top: 0px;
+}
+
+.ribbonTop-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    font-family: sans-serif;
+    font-size: 25px;
+    color: white;
+    -webkit-text-stroke: 3px black;
+    /* background-color: lightgrey; */
+    padding-top: 10px;
+    /* border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px; */
+    background-image: url(images/bannerimg.jpeg);
+    background-position: center;
+}
+
+#search {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 300px;
+    height: 50px;
+    font-size: 25px;
+    font-family: sans-serif;
+    padding-top: 5px;
+    color: rgba(0, 0, 0, 0.70);
+    border-radius: 8px;
+    border: 3px solid rgb(150, 150, 150);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.35);
+    background-color: white;
+    transition: all 0.5s ease;
+}
+
+#search::placeholder {
+    color: rgb(150, 150, 150);
+    transition: all 0.5s ease;
+}
+
+#search:hover::placeholder {
+    color: rgba(0, 0, 0, 0.70);
+}
+
+#search:focus::placeholder {
+    color: rgba(0, 0, 0, 0.70);
+}
+
+#search:focus {
+    outline: none;
+    border: 3px solid maroon;
+    background-color: white;
+    transform: scale(1.05);
+    color: rgba(0, 0, 0, 0.70);
+}
+
+#search:hover {
+    border: 3px solid maroon;
+    background-color: white;
+    transform: scale(1.05);
+}
+
+#grid-container {
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+
+.grid-item {
+    display: flex;
+    flex-direction: column;
+    background-color: maroon;
+    color: white;
+    height: 120px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    transition: all 0.5s ease;
+    box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.35);
+    border: 3px solid white;
+    margin: 10px;
+    padding: 10px;
+}
+
+.grid-item:hover {
+    background-color: white;
+    color: maroon;
+    cursor: pointer;
+    transform: scale(1.025);
+    border: 5px solid maroon;
+}
+
+.grid-item.clicked {
+    background-color: white;
+    color: maroon;
+    border: 5px solid maroon;
+}
+
+.hide {
+    display: none;
+}
+
+#user-display {
+    background-color: rgb(217, 217, 217);
+    border: solid 3px white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.35);
+    overflow: hidden;
+    width: 300px;
+    text-align: center;
+    transition: all 0.5s ease;
+    justify-content: center;
+}
+
+#user-display:hover{
+    transform: scale(1.05);
+}
+
+#user-display-ribbon {
+    background-color: maroon;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 1px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.35);;
+}
+
+#user-display-content {
+    color: black;
+    padding-bottom: 10px;
+}
+
+#user-display h1 {
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+#user-display h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#bottle-size-label {
+    font-size: 1.17em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+#bottle-size {
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    font-size: 1.17em;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.70);
+    border-radius: 8px;
+    border: 3px solid rgb(150, 150, 150);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.35);
+    background-color: white;
+    transition: all 0.5s ease;
+    margin: 10px;
+}
+
+#bottle-size:hover::placeholder {
+    color: rgba(0, 0, 0, 0.70);
+}
+
+#bottle-size:focus::placeholder {
+    color: rgba(0, 0, 0, 0.70);
+}
+
+#bottle-size:focus {
+    outline: none;
+    border: 3px solid maroon;
+    background-color: white;
+    transform: scale(1.05);
+    color: rgba(0, 0, 0, 0.70);
+}
+
+#bottle-size:hover {
+    border: 3px solid maroon;
+    background-color: white;
+    transform: scale(1.05);
+}
+
+.logout {
+    width: 120px;
+    height: 45px;
+    background-color: maroon;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: all 0.5s ease;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.35);
+}
+
+.logout:hover {
+    transform: scale(1.05);
+    background-color: rgb(104, 0, 0);
+}
+
+.refill {
+    width: 120px;
+    height: 45px;
+    background-color: maroon;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: all 0.5s ease;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.35);
+    margin-right: 10px;
+}
+
+.refill:hover {
+    transform: scale(1.05);
+    background-color: rgb(104, 0, 0);
+}
+
+.delete {
+    width: 120px;
+    height: 45px;
+    background-color: maroon;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: all 0.5s ease;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.35);
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.delete:hover {
+    transform: scale(1.05);
+    background-color: rgb(104, 0, 0);
+}

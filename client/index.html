@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>HydrationStation</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <script type="module" src="main.js"></script>
+    </head>
+    <body>
+        <div class="wrapper side-panel-open">
+            <div class="side-panel">
+                <div class="login-container">
+                    <div class="login-header">
+                      Login or Sign Up
+                    </div>
+                    <div class="login-form">
+                      <input type="text" id="username" name="username" placeholder="Enter your username">
+                
+                      <input type="password" id="password" name="password" placeholder="Enter your password">
+                
+                      <button type="submit" id="login">Log In</button>
+                      <p>Don't have an account? <a href="#" id="sign-up">Sign Up</a></p>
+                    </div>
+                  </div>
+            </div>
+            <div class="main">
+                <button class="side-panel-button" type="button">
+                    <span class="material-icons sp-icon-open">keyboard_double_arrow_right</span>
+                    <span class="material-icons sp-icon-close">keyboard_double_arrow_left</span>
+                </button>
+                <div class="ribbonTop-container">
+                    <img src="images/Umass_textlogo.png" alt="umass logo" width="400px">
+                    <h1>HYDRATION STATION TRACKER</h1>
+                </div>
+                <div class="search-container">
+                    <input type="search" id="search" placeholder="Search Buildings...">
+                </div>
+                <div id="grid-container"></div>
+            </div>
+        </div>
+    </body>`
+</html>

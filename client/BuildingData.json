@@ -1,0 +1,1792 @@
+[{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456e8"
+  },
+  "building": "Army ROTC",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": 3012
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456b4"
+  },
+  "building": "Arnold Hall",
+  "urlBuilding": "https://lh5.googleusercontent.com/p/AF1QipNy0Vo8rUB19DmY-cCJj0OXwLyLifJrLyL5AWwb=w408-h240-k-no-pi-22.329552-ya184.78922-ro-14.170965-fo100",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45717"
+  },
+  "building": "Baker Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?",
+  "comments": "lobby"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456b6"
+  },
+  "building": "Bartlett Hall",
+  "urlBuilding": "https://dailycollegian.com/wp-content/uploads/2011/03/bartlett-2-Marielle-Fibish-e1390441298326.jpg",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": 6624,
+  "comments": "near earthfoods"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456b7"
+  },
+  "building": "Berkshire Dining Commons",
+  "urlBuilding": "https://npr.brightspotcdn.com/legacy/sites/wfcr/files/202008/f2e731d2e0844010b6c3b35c6cb362fd.jpg",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456fc"
+  },
+  "building": "Birch Hall",
+  "urlBuilding": "",
+  "floor": [
+    "lobby"
+  ],
+  "bottleCount": 195679,
+  "comments": "By room 225"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456b8"
+  },
+  "building": "Bowditch Hall",
+  "urlBuilding": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iq6b05rUGM4z02hCtHy5dw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=162.75099&pitch=0&thumbfov=100",
+  "floor": [
+    "2nd"
+  ],
+  "bottleCount": "?",
+  "comments": "299B hallway between room 207 and 209"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456b9"
+  },
+  "building": "Boyden Gym",
+  "urlBuilding": "https://www.umass.edu/physicalplant/sites/default/files/IMG_4596.jpg",
+  "floor": [
+    "M Locker Rm",
+    "Pool"
+  ],
+  "bottleCount": [
+    13394,
+    7072
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b4571c"
+  },
+  "building": "Bret Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st",
+    "1st",
+    "2nd"
+  ],
+  "bottleCount": [
+    "?",
+    "?",
+    "?"
+  ],
+  "comments": [
+    "lobby",
+    "North hallway",
+    "40"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b4571d"
+  },
+  "building": "Brooks Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?",
+  "comments": "40"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45709"
+  },
+  "building": "Brown Hall",
+  "urlBuilding": "",
+  "floor": [
+    "basement",
+    "lobby",
+    "1st",
+    "2nd",
+    "3rd",
+    "4th",
+    "5th",
+    "6th",
+    "7th",
+    "8th"
+  ],
+  "bottleCount": [
+    "?",
+    355,
+    723,
+    3144,
+    3818,
+    3021,
+    4112,
+    3763,
+    5194,
+    4688
+  ],
+  "comments": [
+    "South hallway",
+    "None",
+    "None",
+    "None",
+    "None",
+    "None",
+    "None",
+    "None",
+    "None",
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b4571b"
+  },
+  "building": "Butterfield Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?",
+  "comments": "lobby"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456ba"
+  },
+  "building": "Campus Center",
+  "urlBuilding": "https://umassdining.com/sites/default/files/campus_center%20_resized.jpg",
+  "floor": [
+    "lower level",
+    "1st"
+  ],
+  "bottleCount": [
+    "?",
+    "?"
+  ],
+  "comments": [
+    "next to womans room",
+    "West End of BlueWall Cafe"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456e6"
+  },
+  "building": "Campus Recreation",
+  "urlBuilding": "",
+  "floor": [
+    "1st",
+    "2nd",
+    "3rd"
+  ],
+  "bottleCount": "?"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456ff"
+  },
+  "building": "Cance Hall",
+  "urlBuilding": "",
+  "floor": [
+    "lobby",
+    "lobby"
+  ],
+  "bottleCount": [
+    33964,
+    "?"
+  ],
+  "comments": [
+    "By room 111",
+    "By room 349"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45707"
+  },
+  "building": "Cashin Hall",
+  "urlBuilding": "",
+  "floor": [
+    "basement",
+    "lobby",
+    "1st",
+    "2nd",
+    "3rd",
+    "4th",
+    "5th",
+    "6th",
+    "7th",
+    "8th"
+  ],
+  "bottleCount": [
+    "?",
+    135,
+    375,
+    831,
+    801,
+    677,
+    904,
+    853,
+    977,
+    1179
+  ],
+  "comments": [
+    "East hallway",
+    "None",
+    "None",
+    "None",
+    "None",
+    "None",
+    "None",
+    "None",
+    "None",
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45718"
+  },
+  "building": "Chadbourne Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?",
+  "comments": "lobby"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456bb"
+  },
+  "building": "Champions Center",
+  "urlBuilding": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-4wZGYQZ1fAhJc_2koSqjg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=241.60625&pitch=0&thumbfov=100",
+  "floor": [
+    "1st",
+    "1st"
+  ],
+  "bottleCount": [
+    4290,
+    931
+  ],
+  "comments": [
+    "Middle of building main hallway",
+    "Side hallway near Boydon field side entrance"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456bd"
+  },
+  "building": "Chenoweth Laboratory",
+  "urlBuilding": "https://www.umass.edu/physicalplant/sites/default/files/IMG_1901.jpg",
+  "floor": [
+    "2nd",
+    "4th"
+  ],
+  "bottleCount": [
+    13453,
+    10630
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456b3"
+  },
+  "building": "College of Engineering",
+  "urlBuilding": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Marston_Hall%2C_Engineering%2C_UMass%2C_Amherst_MA.jpg",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?",
+  "comments": "Near Rooms 109 and 111",
+  "latitude": "None",
+  "longitude": "None",
+  "distance": "None"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456bf"
+  },
+  "building": "Conte Polymer Research Center",
+  "urlBuilding": "https://www.umass.edu/physicalplant/sites/default/files/IMG_1669_0.jpg",
+  "floor": [
+    "1st",
+    "3rd",
+    "4th",
+    "6th"
+  ],
+  "bottleCount": [
+    4601,
+    314,
+    132,
+    7437
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456f2"
+  },
+  "building": "Cooldige Hall",
+  "urlBuilding": "",
+  "floor": [
+    "lobby",
+    "1210"
+  ],
+  "bottleCount": [
+    39611,
+    29494
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b4570e"
+  },
+  "building": "Crabtree Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?",
+  "comments": "South hallway"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456f4"
+  },
+  "building": "Crampton Hall",
+  "urlBuilding": "",
+  "floor": [
+    "lobby"
+  ],
+  "bottleCount": 39611,
+  "comments": "By basement elevator"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456c0"
+  },
+  "building": "Crotty Hall",
+  "urlBuilding": "https://lh5.googleusercontent.com/p/AF1QipPeMXffgEr0HoeU5ethr-HpUr3MrybkAmEPBFMr=w408-h306-k-no",
+  "floor": [
+    "2nd"
+  ],
+  "bottleCount": 5716,
+  "comments": "By Rm 209"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456c1"
+  },
+  "building": "Curry Hicks Cage",
+  "urlBuilding": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Curry_S._Hicks_Cage.jpg",
+  "floor": [
+    "1st",
+    "1st"
+  ],
+  "bottleCount": [
+    "?",
+    "?"
+  ],
+  "comments": [
+    "On Track",
+    "On Track"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456cf"
+  },
+  "building": "Department of Environmental Conservation",
+  "urlBuilding": "https://lh3.googleusercontent.com/p/AF1QipPQMvC7ghtff-ltSV-nV3vUNmYzqh_ek_HD9wl4=s1360-w1360-h1020",
+  "floor": [
+    "2nd"
+  ],
+  "bottleCount": 36226,
+  "comments": "By 207A"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45720"
+  },
+  "building": "Dickinson Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?",
+  "comments": "lobby"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45721"
+  },
+  "building": "Dickinson Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?",
+  "comments": "lobby"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456c3"
+  },
+  "building": "Draper Hall",
+  "urlBuilding": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Draper_Hall%2C_College_of_Social_and_Behavioral_Sciences%2C_UMass%2C_Amherst_MA.jpg",
+  "floor": [
+    "1st",
+    "3rd"
+  ],
+  "bottleCount": [
+    5234,
+    2610
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b4570f"
+  },
+  "building": "Dwight Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?",
+  "comments": "Basement lounge near 06"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456fe"
+  },
+  "building": "Elm Hall",
+  "urlBuilding": "",
+  "floor": [
+    "lobby"
+  ],
+  "bottleCount": 262081,
+  "comments": "By room 320"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456f8"
+  },
+  "building": "Emerson Hall",
+  "urlBuilding": "",
+  "floor": [
+    "lobby"
+  ],
+  "bottleCount": 39611,
+  "comments": "By room 140"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456c5"
+  },
+  "building": "Engineering Lab",
+  "urlBuilding": "",
+  "floor": [
+    "3rd"
+  ],
+  "bottleCount": 65319
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456c6"
+  },
+  "building": "Fernald Hall",
+  "urlBuilding": "https://upload.wikimedia.org/wikipedia/commons/d/df/Fernald_Hall.jpg",
+  "floor": [
+    "2nd"
+  ],
+  "bottleCount": 6502
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45722"
+  },
+  "building": "Field Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?",
+  "comments": "lobby"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456c7"
+  },
+  "building": "Fine Arts Center",
+  "urlBuilding": "https://lh5.googleusercontent.com/p/AF1QipM9k_Q9chbd7tX1mChBMQO-imfuQ5Yc0Pifhcps=w426-h240-k-no",
+  "floor": [
+    "Music wing",
+    "Outside of Room 150"
+  ],
+  "bottleCount": [
+    34278,
+    "?"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456c8"
+  },
+  "building": "Franklin Dining Commons",
+  "urlBuilding": "https://heartfullhomeless.files.wordpress.com/2014/12/photo-3-2.jpg",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456c9"
+  },
+  "building": "Furcolo School of education renovations",
+  "urlBuilding": "https://www.umass.edu/cp/sites/default/files/Furcolo%20Hall%20Renovations_04.jpg",
+  "floor": [
+    "Basement",
+    "1st",
+    "2nd"
+  ],
+  "bottleCount": [
+    17329,
+    37850,
+    8969
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456ca"
+  },
+  "building": "Goessmann Laboratory",
+  "urlBuilding": "https://pbs.twimg.com/profile_images/1258043633116213248/lZEvPoHU_400x400.jpg",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b4571e"
+  },
+  "building": "Gorman Hall",
+  "urlBuilding": "",
+  "floor": [
+    "basement"
+  ],
+  "bottleCount": "?",
+  "comments": "lobby"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45723"
+  },
+  "building": "Grayson Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?",
+  "comments": "lobby"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45719"
+  },
+  "building": "Greenough Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?",
+  "comments": "lobby"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45710"
+  },
+  "building": "Hamlin Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?",
+  "comments": "West hallway near 101"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456cb"
+  },
+  "building": "Hampshire Dining Commons",
+  "urlBuilding": "https://www.umass.edu/cp/sites/default/files/Hampshire%20Dining%20Commons%20Renovation_23.png",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456cc"
+  },
+  "building": "Hampshire House",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": 313,
+  "comments": "Main Hallway"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456cd"
+  },
+  "building": "Hasbrouck Laboratory",
+  "urlBuilding": "https://lh5.googleusercontent.com/p/AF1QipNdf3_wPaZWkpoh5NMz0WrpZuwg1Zo5NxauvgPk=w408-h408-k-no",
+  "floor": [
+    "Basement",
+    "1st",
+    "1st",
+    "2nd",
+    "2nd"
+  ],
+  "bottleCount": [
+    "?",
+    "?",
+    "?",
+    7424,
+    "?"
+  ],
+  "comments": [
+    "Across from Room 20",
+    "By room 111",
+    "By room 120",
+    "By room 210",
+    "By room 219"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456ce"
+  },
+  "building": "Herter Art Gallery",
+  "urlBuilding": "https://lh5.googleusercontent.com/p/AF1QipPn47ozkvaKF450L2JvJUPDPJGyhY_8-jYxRBfV=w408-h306-k-no",
+  "floor": [
+    "1st",
+    "1st",
+    "2nd",
+    "3rd",
+    "6th"
+  ],
+  "bottleCount": [
+    40022,
+    "?",
+    "?",
+    9890,
+    2014
+  ],
+  "comments": [
+    "None",
+    "Outside of Room 19",
+    "None",
+    "By 330",
+    "By 610"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456d1"
+  },
+  "building": "Integrated Sciences Building (ISB)",
+  "urlBuilding": "https://www.umass.edu/cp/sites/default/files/2018_10_09_19_Integrated%20Sciences%20Building%20%28ISB%29_East%20Exterior%20Perspective%20square.jpg",
+  "floor": [
+    "4th"
+  ],
+  "bottleCount": "?"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456d0"
+  },
+  "building": "Integrative Learning Center (ILC)",
+  "urlBuilding": "https://lh5.googleusercontent.com/p/AF1QipMPIyMkCk7Wt0RdV_-T4PzExqFwMiA37ZrChVVt=w408-h306-k-no",
+  "floor": [
+    "N155S",
+    "Cafe",
+    "N101",
+    "S120",
+    "N121",
+    "N211",
+    "N255",
+    "S240",
+    "Lobby",
+    "S392",
+    "N331",
+    "S361",
+    "N3399M",
+    "S490",
+    "S494",
+    "S408"
+  ],
+  "bottleCount": [
+    23440,
+    37696,
+    59811,
+    61921,
+    52940,
+    44820,
+    16076,
+    64571,
+    134684,
+    6046,
+    24891,
+    48909,
+    7258,
+    14414,
+    26131,
+    13746
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456d3"
+  },
+  "building": "Isenberg School Of Management Business Innovation Hub",
+  "urlBuilding": "https://lh5.googleusercontent.com/p/AF1QipPtc8tBAQoBaeq3kX2y1w3hzX2uT9Rxf1Kvv3YB=w408-h272-k-no",
+  "floor": [
+    "1st",
+    "2nd",
+    "3rd"
+  ],
+  "bottleCount": [
+    23143,
+    4350,
+    5806
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456d2"
+  },
+  "building": "Isenberg School of Management",
+  "urlBuilding": "https://lh5.googleusercontent.com/p/AF1QipMWQg6texfidARY2pcK2JL3NW5UyEjIEG5TWCLV=w408-h272-k-no",
+  "floor": [
+    "2nd"
+  ],
+  "bottleCount": "?"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45705"
+  },
+  "building": "John Quincy Adams Hall",
+  "urlBuilding": "",
+  "floor": [
+    "lobby",
+    "lobby"
+  ],
+  "bottleCount": [
+    "?",
+    33964
+  ],
+  "comments": [
+    "By room 108A",
+    "By room 1206"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456f7"
+  },
+  "building": "James Hall",
+  "urlBuilding": "",
+  "floor": [
+    "lobby"
+  ],
+  "bottleCount": 39611,
+  "comments": "By room 102"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45704"
+  },
+  "building": "John Adams Hall",
+  "urlBuilding": "",
+  "floor": [
+    "lobby",
+    "lobby"
+  ],
+  "bottleCount": [
+    33964,
+    "?"
+  ],
+  "comments": [
+    "By room 108",
+    "By room 1206"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456c2"
+  },
+  "building": "John W. Olver Design Building at UMass Amherst",
+  "urlBuilding": "https://i0.wp.com/bct.eco.umass.edu/wp-content/uploads/2018/07/DSC0895-2.jpg?fit=4335%2C2871&ssl=1",
+  "floor": [
+    "1st",
+    "2nd",
+    "2nd",
+    "3rd",
+    "3rd",
+    "4th"
+  ],
+  "bottleCount": [
+    14454,
+    14013,
+    21465,
+    11120,
+    15503,
+    20476
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45711"
+  },
+  "building": "Johnson Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": [
+    "?",
+    "?"
+  ],
+  "comments": [
+    "Near fac ops offic 108",
+    "Near 109"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456f1"
+  },
+  "building": "Kennedy Hall",
+  "urlBuilding": "",
+  "floor": [
+    "lobby",
+    "1210"
+  ],
+  "bottleCount": [
+    39611,
+    49729
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45712"
+  },
+  "building": "Knowlton Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?",
+  "comments": "West hallway near 128 bathroom"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45713"
+  },
+  "building": "Leach Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?",
+  "comments": "East hallway near 109 maintainers closet"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456d4"
+  },
+  "building": "Lederle Graduate Research Center (LGRC Lowrise)",
+  "urlBuilding": "https://images.skyscrapercenter.com/building/lgrt_ext-overallstreet_(c)austermann.jpg",
+  "floor": [
+    "1st",
+    "1st",
+    "2nd",
+    "3rd"
+  ],
+  "bottleCount": [
+    19508,
+    "?",
+    44289,
+    15791
+  ],
+  "comments": [
+    "None",
+    "None",
+    "None",
+    "By room A301"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456d5"
+  },
+  "building": "Lederle Graduate Research Tower (LGRT)",
+  "urlBuilding": "https://images.skyscrapercenter.com/building/lgrt_ext-overallup_(c)austermann.jpg",
+  "floor": [
+    "4th",
+    "12th"
+  ],
+  "bottleCount": [
+    "?",
+    "?"
+  ],
+  "comments": [
+    "Lobby",
+    "Lobby"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45714"
+  },
+  "building": "Lewis Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st",
+    "1st",
+    "2nd",
+    "3rd",
+    "4th"
+  ],
+  "bottleCount": [
+    "?",
+    "?",
+    "?",
+    "?",
+    "?"
+  ],
+  "comments": [
+    "Near basement kitchen",
+    "Near 24 laundry room",
+    "Near 212 bathroom",
+    "Near 312 bathroom",
+    "Near 412 bathroom"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456d6"
+  },
+  "building": "Life Sciences Laboratory",
+  "urlBuilding": "https://www.umass.edu/sustainability/sites/default/files/images/lsl.jpg",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456f9"
+  },
+  "building": "Linden Hall",
+  "urlBuilding": "",
+  "floor": [
+    "lobby"
+  ],
+  "bottleCount": 238686,
+  "comments": "By room 209"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45703"
+  },
+  "building": "MacKimmie",
+  "urlBuilding": "",
+  "floor": [
+    "lobby"
+  ],
+  "bottleCount": 33964,
+  "comments": "By room 225"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456d7"
+  },
+  "building": "Machmer Hall",
+  "urlBuilding": "https://www.umass.edu/physicalplant/sites/default/files/IMG_6896.JPG",
+  "floor": [
+    "By W38A",
+    "2nd",
+    "2nd",
+    "3rd",
+    "3rd"
+  ],
+  "bottleCount": [
+    12175,
+    27015,
+    "?",
+    11754,
+    "?"
+  ],
+  "comments": [
+    "None",
+    "By W20B",
+    "By E21",
+    "By E31",
+    "By W31C"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456be"
+  },
+  "building": "Manning College of Information and Computer Sciences",
+  "urlBuilding": "https://erepublic.brightspotcdn.com/dims4/default/f4925e6/2147483647/strip/true/crop/960x501+0+38/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8e%2Fd5%2F92bd3bfc45a093a55b64ebb3fe4d%2Fumass-amherst.jpg",
+  "floor": [
+    "1st",
+    "2nd",
+    "3rd"
+  ],
+  "bottleCount": [
+    20640,
+    18412,
+    11312
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456fb"
+  },
+  "building": "Maple Hall",
+  "urlBuilding": "",
+  "floor": [
+    "lobby"
+  ],
+  "bottleCount": 246490,
+  "comments": "By room 206"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456d8"
+  },
+  "building": "Marcus Hall",
+  "urlBuilding": "https://www.umass.edu/physicalplant/sites/default/files/IMG_1679.JPG",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456d9"
+  },
+  "building": "Marston Hall",
+  "urlBuilding": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Marston_Hall%2C_Engineering%2C_UMass%2C_Amherst_MA.jpg",
+  "floor": "Basement",
+  "bottleCount": 9839
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45715"
+  },
+  "building": "Mary Lyon Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?",
+  "comments": "West hallway near 108"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456da"
+  },
+  "building": "Mather Building",
+  "urlBuilding": "https://www.umass.edu/physicalplant/sites/default/files/IMG_5469.JPG",
+  "floor": [
+    "1st",
+    "2nd"
+  ],
+  "bottleCount": [
+    "?",
+    "?"
+  ],
+  "comments": [
+    "None",
+    "By 216"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45708"
+  },
+  "building": "McNamara Hall",
+  "urlBuilding": "",
+  "floor": [
+    "basement",
+    "lobby",
+    "1st",
+    "2nd",
+    "3rd",
+    "4th",
+    "5th",
+    "6th",
+    "7th",
+    "8th"
+  ],
+  "bottleCount": [
+    "?",
+    194,
+    588,
+    2078,
+    11152,
+    3057,
+    3152,
+    3353,
+    6496,
+    2919
+  ],
+  "comments": [
+    "East hallway",
+    "None",
+    "None",
+    "None",
+    "None",
+    "None",
+    "None",
+    "None",
+    "None",
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456f6"
+  },
+  "building": "Melville Hall",
+  "urlBuilding": "",
+  "floor": [
+    "lobby"
+  ],
+  "bottleCount": 39611,
+  "comments": "By room 130"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456db"
+  },
+  "building": "Memorial Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456dc"
+  },
+  "building": "Middlesex Building",
+  "urlBuilding": "",
+  "floor": [
+    "1st",
+    "2nd",
+    "3rd"
+  ],
+  "bottleCount": [
+    2495,
+    2086,
+    4089
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456b5"
+  },
+  "building": "Minuteman Marching Band",
+  "urlBuilding": "https://lh5.googleusercontent.com/p/AF1QipPpgYJsJZBNv0mXJjSYEf5L-PD__sHaMOPPJv_D=w408-h298-k-no",
+  "floor": [
+    "1st",
+    "1st"
+  ],
+  "bottleCount": [
+    23379,
+    4238
+  ],
+  "comments": [
+    "None",
+    "locker room"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45701"
+  },
+  "building": "Moore Hall",
+  "urlBuilding": "",
+  "floor": [
+    "lobby"
+  ],
+  "bottleCount": 33964,
+  "comments": "By room 106D"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456df"
+  },
+  "building": "Morrill 4N",
+  "urlBuilding": "",
+  "floor": [
+    "1st",
+    "2nd",
+    "3rd",
+    "near N324"
+  ],
+  "bottleCount": [
+    "?",
+    1894,
+    2457,
+    14790
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456e0"
+  },
+  "building": "Morrill 4S",
+  "urlBuilding": "",
+  "floor": [
+    "By 254"
+  ],
+  "bottleCount": "?"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456dd"
+  },
+  "building": "Morrill Science Center 2",
+  "urlBuilding": "",
+  "floor": [
+    "1st",
+    "2nd",
+    "3rd"
+  ],
+  "bottleCount": [
+    45160,
+    22779,
+    "?"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456de"
+  },
+  "building": "Morrill Science Center 3",
+  "urlBuilding": "",
+  "floor": [
+    "1st",
+    "2nd",
+    "3rd",
+    "4th"
+  ],
+  "bottleCount": [
+    "?",
+    "?",
+    "?",
+    1545
+  ],
+  "comments": [
+    "By room126",
+    "None",
+    "None",
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456e1"
+  },
+  "building": "New Africa House",
+  "urlBuilding": "",
+  "floor": [
+    "2nd"
+  ],
+  "bottleCount": "?",
+  "comments": "by Womens BR 214"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b4570a"
+  },
+  "building": "North Apartment A",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": 34047,
+  "comments": "lobby"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b4570b"
+  },
+  "building": "North Apartment B",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": 44604,
+  "comments": "lobby"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b4570c"
+  },
+  "building": "North Apartment C",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": 38406,
+  "comments": "lobby"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b4570d"
+  },
+  "building": "North Apartment D",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": 40298,
+  "comments": "lobby"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456fa"
+  },
+  "building": "Oak Hall",
+  "urlBuilding": "",
+  "floor": [
+    "lobby"
+  ],
+  "bottleCount": 475157,
+  "comments": "By vending machines"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456bc"
+  },
+  "building": "Old Chapel",
+  "urlBuilding": "https://lh5.googleusercontent.com/p/AF1QipPx5AFNcgIlZ_ieEH9krfWtLr-e5_aZFAOz-vqe=w408-h544-k-no",
+  "floor": [
+    "Basement",
+    "1st"
+  ],
+  "bottleCount": [
+    2337,
+    "?"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456e2"
+  },
+  "building": "Paige Laboratory",
+  "urlBuilding": "",
+  "floor": [
+    "2nd"
+  ],
+  "bottleCount": 20292,
+  "comments": "By 212"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45702"
+  },
+  "building": "Patterson Hall",
+  "urlBuilding": "",
+  "floor": [
+    "lobby"
+  ],
+  "bottleCount": 33964,
+  "comments": "By room 221D"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456e3"
+  },
+  "building": "Physical Plant",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456e5"
+  },
+  "building": "Physical Sciences Building (PSB)",
+  "urlBuilding": "",
+  "floor": [
+    "1st",
+    "1st",
+    "2nd"
+  ],
+  "bottleCount": [
+    1601,
+    5114,
+    30891
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45700"
+  },
+  "building": "Pierpont Hall",
+  "urlBuilding": "",
+  "floor": [
+    "lobby"
+  ],
+  "bottleCount": 33964,
+  "comments": "By room 107"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456f3"
+  },
+  "building": "Prince Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": 39611
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456e7"
+  },
+  "building": "Robsham Memorial Center for Visitors",
+  "urlBuilding": "",
+  "floor": [
+    "Lobby"
+  ],
+  "bottleCount": "?"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456e9"
+  },
+  "building": "Skinner Hall",
+  "urlBuilding": "",
+  "floor": [
+    "Basement",
+    "1st",
+    "2nd"
+  ],
+  "bottleCount": [
+    6957,
+    7653,
+    "?"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456ea"
+  },
+  "building": "South College",
+  "urlBuilding": "",
+  "floor": [
+    "1st",
+    "2nd",
+    "3rd",
+    "4th"
+  ],
+  "bottleCount": [
+    2010,
+    "?",
+    10052,
+    18280
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456eb"
+  },
+  "building": "Stockbridge Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st",
+    "2nd",
+    "3rd"
+  ],
+  "bottleCount": [
+    25043,
+    2159,
+    1069
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456fd"
+  },
+  "building": "Sycamore Hall",
+  "urlBuilding": "",
+  "floor": [
+    "lobby"
+  ],
+  "bottleCount": 588591,
+  "comments": "By North Hallway"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45716"
+  },
+  "building": "Thatcher Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st",
+    "1st",
+    "2nd",
+    "2nd",
+    "4th"
+  ],
+  "bottleCount": [
+    "?",
+    "?",
+    "?",
+    "?",
+    "?"
+  ],
+  "comments": [
+    "Near basement kitchen",
+    "Near basement laundry room",
+    "Near 214 bathroom",
+    "Near 214 bathroom",
+    "Near 412 bathroom"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456ec"
+  },
+  "building": "Thompson Hall",
+  "urlBuilding": "",
+  "floor": [
+    "Lobby"
+  ],
+  "bottleCount": 3201
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456f5"
+  },
+  "building": "Thoreau Hall",
+  "urlBuilding": "",
+  "floor": [
+    "lobby"
+  ],
+  "bottleCount": 39611,
+  "comments": "By room 102"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456ed"
+  },
+  "building": "Totman Gym",
+  "urlBuilding": "",
+  "floor": [
+    "1st",
+    "1st"
+  ],
+  "bottleCount": [
+    "?",
+    4425
+  ],
+  "comments": [
+    "By 119",
+    "By 158"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456ee"
+  },
+  "building": "University Health Services (UHS)",
+  "urlBuilding": "",
+  "floor": [
+    "Basement"
+  ],
+  "bottleCount": "?",
+  "comments": "staff requests second one on main level in lobby"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456e4"
+  },
+  "building": "University of Massachusetts Police Department",
+  "urlBuilding": "",
+  "floor": [
+    "lobby"
+  ],
+  "bottleCount": "?",
+  "comments": "Police Station has 2 others that do not have counters"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b4571a"
+  },
+  "building": "Van Meter Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st",
+    "3rd"
+  ],
+  "bottleCount": [
+    "?",
+    "?"
+  ],
+  "comments": [
+    "30",
+    "31"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456c4"
+  },
+  "building": "W.E.B. Du Bois Library",
+  "urlBuilding": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/W.E.B._DuBois_Library.jpg/250px-W.E.B._DuBois_Library.jpg",
+  "floor": [
+    "Lower  Level",
+    "6th",
+    "7th",
+    "12th",
+    "13th"
+  ],
+  "bottleCount": [
+    "?",
+    32628,
+    "?",
+    6955,
+    5075
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45706"
+  },
+  "building": "Washington Hall",
+  "urlBuilding": "",
+  "floor": [
+    "lobby",
+    "lobby"
+  ],
+  "bottleCount": [
+    "?",
+    37345
+  ],
+  "comments": [
+    "By room 103",
+    "By room 1206"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b45724"
+  },
+  "building": "Webster Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?",
+  "comments": "lobby"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b4571f"
+  },
+  "building": "Wheeler Hall",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?",
+  "comments": "122"
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456ef"
+  },
+  "building": "Whitmore Administration Building",
+  "urlBuilding": "",
+  "floor": [
+    "1st",
+    "1st",
+    "2nd"
+  ],
+  "bottleCount": [
+    2558,
+    7585,
+    11833
+  ],
+  "comments": [
+    "By 139B",
+    "By 102",
+    "(lobby)"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6553e563bb62de1f47b456f0"
+  },
+  "building": "Worcester Dining",
+  "urlBuilding": "",
+  "floor": [
+    "1st"
+  ],
+  "bottleCount": "?"
+}]
